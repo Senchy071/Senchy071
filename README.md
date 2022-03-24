@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Senchy071
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 🌱 I’m currently learning HTML, CSS and JavaScript by mixing The Odin Project and Free Code Camp.
 
 
 <!---
