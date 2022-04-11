@@ -2,6 +2,8 @@
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning HTML, CSS and JavaScript by mixing The Odin Project and Free Code Camp (and everything else :) ).
 
+senad.dev
+
 
 <!---
 Senchy071/Senchy071 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
