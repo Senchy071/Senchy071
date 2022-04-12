@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning HTML, CSS and JavaScript by mixing The Odin Project and Free Code Camp (and everything else :) ).
 
-senad.dev
+http://www.senad.dev
 
 
 <!---
